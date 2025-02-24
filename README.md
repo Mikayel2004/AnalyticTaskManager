@@ -12,7 +12,7 @@ This is a task management application with an analytics dashboard, built using C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TheECreator/task-manager-analytics.git
+   git clone https://github.com/Mikayel2004/AnalyticTaskManager.git
 2. Navigate to the project directory:
 3. Build and run C++ application.
 4. Use analytics.py for analysis.
